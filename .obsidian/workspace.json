@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scala_Collections/Tuples in Scala.md",
+                "file": "Scala_Collections/List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tuples in Scala"
+              "title": "List"
             }
           }
         ]
@@ -164,8 +164,10 @@
   },
   "active": "ae481970d80c2053",
   "lastOpenFiles": [
-    "Scala_Collection_Functions/map & flatMap Function.md",
+    "Scala_Collections/Map.md",
+    "Scala_Collections/List.md",
     "Scala_Collections/Tuples in Scala.md",
+    "Scala_Collection_Functions/map & flatMap Function.md",
     "Scala_Collections",
     "Scala_Collection_Functions"
   ]
